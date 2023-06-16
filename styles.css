@@ -3,6 +3,7 @@
 	width: 664px;
     height: 850px;
 }*/
-div{
-	background-color:grey;
+.but{
+	background-color:red;
+	align:center;
 }
