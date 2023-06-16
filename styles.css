@@ -1,6 +1,8 @@
-/*  your css code here. If applicable */
+/*  your css code here. If applicable 
 .pr{
 	width: 664px;
-/*     aspect-ratio: auto 664 / 850; */
     height: 850px;
+}*/
+div{
+	background-color:grey;
 }
